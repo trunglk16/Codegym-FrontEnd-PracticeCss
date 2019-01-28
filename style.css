@@ -1,0 +1,30 @@
+.navbar {
+    font-family: "Times new roman";
+    font-size: 1em;
+
+}
+ #home {
+     color: red;
+
+ }
+
+ #news {
+     color: blue;
+
+ }
+
+ #contact {
+     color: green;
+     font-variant: small-caps;
+
+ }
+
+ #about {
+     color: yellow;
+
+ }
+
+ .main{
+     font-weight: bolder;
+     color: yellow;
+ }
